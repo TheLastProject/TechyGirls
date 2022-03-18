@@ -46,6 +46,7 @@ Please be sure to also read the [Techy Girls General Rules](./Rules.md)
 * Degradation/Abuse
 
 #### Banned
+* Non-Consent
 * Scat
 * Hard Drug Use
 * Amputation
