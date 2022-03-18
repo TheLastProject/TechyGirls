@@ -11,6 +11,7 @@ All of Our Chats are Places of Cooperation and Kindness, so please familiarise y
   * When people are helping each other that is a time to be constructive. They probably don't want to change distros or learn a new programming language. Try to see if your insights can help, but try to understand their needs and limitations
   * Be sure you understand why someone disagrees with you. It never hurt to ask for more information
   * Agree when you agree. Where there is common ground be sure to point it out, its usually a good starting point
+  * Help keep the space kind by familiarizing yourself with [this](https://eev.ee/blog/2016/07/22/on-a-technicality/) blog post on keeping communities kind
 
 ## The chats
 
