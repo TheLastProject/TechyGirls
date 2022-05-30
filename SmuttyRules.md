@@ -1,7 +1,9 @@
 ### [18+] Smutty Girls
+
+Pornographic companion chat for the Techy Girls main chats. Do not join this chat unless you are in one of the other Techy Girls chats. Do not invite people to this chat who aren't in the other TG chats.
+
 Smutty Girls is for porn, but isn't a free-for-all. You must be at least 18 years old to join this chat.
 Please be sure to also read the [Techy Girls General Rules](./Rules.md)
-
 
 #### Green Light
 * Any Sex
